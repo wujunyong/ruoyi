@@ -20,7 +20,7 @@ import com.ruoyi.common.utils.file.FileUploadUtils;
 import com.ruoyi.common.utils.file.FileUtils;
 
 /**
- * 通用请求处理 吴钧勇
+ * 通用请求处理 wujunyong
  * 
  * @author ruoyi
  */
